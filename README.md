@@ -38,7 +38,6 @@ For use **smooth_slider** widget in your project:
               )
     ```
     
-    
     ## License
 
     Windmill Smart Solutions 2020 ©
